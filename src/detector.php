@@ -9,6 +9,7 @@ function device_detector($ua=NULL)
 	$browser = 'UNDETECTED';
 	$version = '@';
 	$platform = 'UNDETECTED';
+	$os_platform = 'UNDETECTED';
 	$b_icon = 'mdi mdi-close-circle';
 	$p_icon = 'mdi mdi-close-circle';
 
