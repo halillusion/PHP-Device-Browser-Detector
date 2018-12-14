@@ -1,4 +1,4 @@
-# PHP-Device-Browser-Detector
+# PHP Device & Browser Detector
 Device and Browser Detector for PHP
 
 Example:
