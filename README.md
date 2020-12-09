@@ -1,7 +1,6 @@
 # PHP Device & Browser Detector
-Device and Browser Detector for PHP
 
-Example:
+Example,
 
-$data = device_detector();
-var_dump($data);// return array
+	$data = device_detector();
+	var_dump($data) // returns as an array
